@@ -2,8 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me:
-- email:demetrgonchar@gmail.com
-- inst:mercurynotdead
+-   demetrgonchar@gmail.com
 
 <!---
 mxrcury/mxrcury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
