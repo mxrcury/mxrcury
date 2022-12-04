@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mxrcury
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me:
      demetrgonchar@gmail.com
 - ☕Buy me a coffee - https://www.buymeacoffee.com/mxrcury
