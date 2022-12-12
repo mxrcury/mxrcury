@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mxrcury, interested in Web Developing
-- 👀 My current technologies stuck: React, Redux, RTK, GraphQ
+- 👀 My current technologies stuck: React, Redux, RTK, GraphQL
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me:
      demetrgonchar@gmail.com
