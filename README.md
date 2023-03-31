@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mxrcury, interested in Programming, especially in Web development
+- 👋 Hi, I’m @mxrcury, interested in Computer Science and Programming, especially in Web development
 - 👀 My current technologies stuck: NodeJS, React, Typescript, GraphQL, PostgreSQL, MongoDB
 - 📫 How to reach me:
      demetrgonchar@gmail.com
