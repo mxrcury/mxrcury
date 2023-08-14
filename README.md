@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mxrcury, interested in Computer cience and Software development
+- 👋 Hi, I’m @mxrcury, interested in `Computer science` and `Software development`
 - 📫 How to reach me:
      demetrgonchar@gmail.com
 - ☕Buy me a coffee - https://www.buymeacoffee.com/mxrcury
