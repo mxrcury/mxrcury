@@ -1,21 +1,17 @@
+<!---
 - 👋 Hi, I’m @mxrcury, interested in `Computer science` and `Software development`
 - 📫 How to reach me:
      demetrgonchar@gmail.com
 - ☕Buy me a coffee - https://www.buymeacoffee.com/mxrcury
 
-<!---
-Hi 👋 My name is Dmytro
-===============================
+--->
 
-Software Engineer
------------------
-
-Doing some coding stuff here
+## Hi! My name is Dmytro and I'm software engineer
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [demetrhonchar@gmail.com](mailto:demetrhonchar@gmail.com)
-* 🧠  I'm learning Computer Science, Golang
-* 🤝  I'm open to collaborating on intersting projects
+* 🧠  I'm learning Computer Science, Software Development
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
@@ -28,12 +24,3 @@ Doing some coding stuff here
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/mxrcury" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/mxrcury6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/mxrcury" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block;list-style-type: none; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mxrcury"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
---->
