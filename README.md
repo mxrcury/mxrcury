@@ -13,7 +13,7 @@
 * 🧠  I'm learning Computer Science, Software Development
 * 🤝  I'm open to collaborating on interesting projects
 
-### Tech stack
+### Main tech stack
 
 
 <p align="left">
