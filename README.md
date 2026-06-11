@@ -1,2 +1,3 @@
-trainee vibe coder
-interested in: tech, traditional fin markets
+- trainee vibe coder 🧿
+
+- interested in: tech, traditional fin. markets
