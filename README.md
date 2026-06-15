@@ -1,1 +1,1 @@
-- trainee vibe coder 🧿
+vibe coder🧿
