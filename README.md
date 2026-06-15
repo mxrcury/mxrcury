@@ -1,2 +1,1 @@
-vibe coder🧿
-gym beast
+vibe coder 🧿 gym beast
